@@ -1,4 +1,4 @@
-# barber_shop_app
+# Flutter template app
 
 A new Flutter project.
 
