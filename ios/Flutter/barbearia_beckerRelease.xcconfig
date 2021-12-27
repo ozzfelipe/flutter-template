@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-barbearia_becker.dart
+
+ASSET_PREFIX=barbearia_becker
+BUNDLE_NAME=Barbearia do Becker

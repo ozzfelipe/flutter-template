@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main-barber-shop.dart
+
+ASSET_PREFIX=barber-shop
+BUNDLE_NAME=Barber Shop App
